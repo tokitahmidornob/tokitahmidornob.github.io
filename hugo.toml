@@ -1,0 +1,34 @@
+baseURL = 'https://tokitahmidornob.github.io/'
+title = 'Toki Tahmid | Digital Portfolio'
+theme = "blowfish"
+
+[params.homepage]
+  layout = "profile"
+
+[params.author]
+  name = "Toki Tahmid"
+  image = "profile.jpg"
+  headline = "Mechanical Engineering | NASA Citizen Scientist | Co-Founder of H.O.L.M.E.S."
+  links = [
+    { email = "mailto:tokitahmidornob@gmail.com" },
+    { github = "https://github.com/your-username" },
+    { linkedin = "https://linkedin.com/in/your-username" }
+  ]
+  
+
+
+  [menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects & Research"
+    url = "/projects/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[params]
+  customCSS = ["css/custom.css"]

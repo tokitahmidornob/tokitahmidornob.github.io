@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Toki Tahmid | Digital Portfolio</title>
+    <link>http://localhost:1313/tags/innovation/</link>
+    <description>Recent content in Innovation on Toki Tahmid | Digital Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Toki Tahmid</copyright>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hult Prize Competition 2026</title>
+      <link>http://localhost:1313/projects/hult-prize/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/hult-prize/</guid>
+      <description>&lt;p&gt;I am currently competing in the Hult Prize. We are leveraging my mechanical engineering background and their software expertise to build a business model that addresses critical sustainability goals.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

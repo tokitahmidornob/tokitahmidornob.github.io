@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on Toki Tahmid | Digital Portfolio</title>
+    <link>http://localhost:1313/tags/astronomy/</link>
+    <description>Recent content in Astronomy on Toki Tahmid | Digital Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Toki Tahmid</copyright>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NASA Citizen Scientist: Asteroid Discovery</title>
+      <link>http://localhost:1313/projects/asteroid-discovery/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/asteroid-discovery/</guid>
+      <description>&lt;p&gt;In 2019, I participated in a citizen science initiative with the NASA Jet Propulsion Laboratory (JPL). Through meticulous data analysis, I successfully identified three provisional asteroids. This achievement remains a cornerstone of my commitment to aerospace exploration.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,20 @@
 ---
-title: "Home"
 layout: "profile"
-action:
-  label: "Explore My Research"
-  url: "/projects/"
 ---
-Welcome to the digital dossier of **Toki Tahmid**. 
 
-I am currently pursuing a BSc in Mechanical Engineering at IUBAT, with a resolute trajectory toward aerospace engineering and a future at NASA. 
+### Current Focus & Research
+I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**, maintaining a **CGPA of 3.87**. My work is centered on the intersection of advanced manufacturing and aerospace systems.
 
-As the co-founder of the H.O.L.M.E.S. research group, I thrive at the intersection of rigorous mechanical principles and innovative problem-solving. This repository serves as a catalog of my academic pursuits, technical projects, and cross-disciplinary studies.
+---
+
+### Global Recognition
+* **NASA Citizen Scientist:** Officially credited by NASA JPL for the discovery of 3 provisional asteroids in 2019.
+* **Presidency Gold Medalist:** Awarded in 2019 for academic and extracurricular excellence.
+* **H.O.L.M.E.S. Research Group:** Co-founder and lead investigator in a multi-disciplinary engineering framework.
+
+---
+
+### Technical Toolkit
+* **Languages:** {{< badge >}}C/C++{{< /badge >}} {{< badge >}}English{{< /badge >}} {{< badge >}}Bengali{{< /badge >}} {{< badge >}}Arabic{{< /badge >}}
+* **Engineering:** {{< badge >}}Mechanical Design{{< /badge >}} {{< badge >}}Manufacturing{{< /badge >}} {{< badge >}}Electronics{{< /badge >}}
+* **Systems:** {{< badge >}}Arch Linux{{< /badge >}} {{< badge >}}Windows Dual-Boot{{< /badge >}}

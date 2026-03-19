@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/aerospace/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/holmes-initiative/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/hult-prize/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/research/</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/holmes-initiative/</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/competition/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/asteroid-discovery/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/entrepreneurship/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/hult-prize/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/innovation/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/astronomy/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/nasa/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/asteroid-discovery/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>

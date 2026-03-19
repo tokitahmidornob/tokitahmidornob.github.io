@@ -42,3 +42,6 @@ theme = 'blowfish'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params.list]
+  cardView = true

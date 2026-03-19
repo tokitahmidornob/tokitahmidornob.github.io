@@ -2,6 +2,16 @@ baseURL = 'https://tokitahmidornob.github.io/'
 title = 'Toki Tahmid | Digital Portfolio'
 theme = 'blowfish'
 
+[params]
+  colorScheme = "blowfish" 
+  defaultAppearance = "dark"
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+  backgroundImage = "background.svg"
+
+[params.header]
+  layout = "fixed" # This creates the beautiful blurred glass effect when you scroll
+
 [build]
   writeStats = true
 

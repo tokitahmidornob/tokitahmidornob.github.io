@@ -278,13 +278,17 @@
       "z-500"
     ],
     "ids": [
+      "academic-foundation--history",
+      "aerospace-discoveries--collegiate-triumphs",
       "appearance-switcher",
       "appearance-switcher-mobile",
       "close-search-button",
       "current-academic-focus-6th-semester",
       "current-focus--research",
       "global-recognition",
+      "independent-research--initiatives",
       "key-achievements",
+      "leadership--strategic-ventures",
       "leadership--vision",
       "leadership-history",
       "main-content",
@@ -300,6 +304,8 @@
       "single_header",
       "site-footer",
       "technical-toolkit",
+      "the-objective",
+      "the-technical-arsenal",
       "the-top"
     ]
   }

@@ -1,3 +1,10 @@
+baseURL = 'https://tokitahmidornob.github.io/'
+title = 'Toki Tahmid | Digital Portfolio'
+theme = 'blowfish'
+
+[build]
+  writeStats = true
+
 [params.author]
   name = "Toki Tahmid"
   image = "profile.jpg"

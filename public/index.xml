@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on </title>
+    <title></title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Home on </description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
@@ -35,6 +35,13 @@
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/asteroid-discovery/</guid>
       <description>&lt;p&gt;In 2019, I participated in a citizen science initiative with the NASA Jet Propulsion Laboratory (JPL). Through meticulous data analysis, I successfully identified three provisional asteroids. This achievement remains a cornerstone of my commitment to aerospace exploration.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;If you wish to discuss aerospace initiatives, mechanical engineering collaborations, or my research with the H.O.L.M.E.S. group, please use the secure channel below.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

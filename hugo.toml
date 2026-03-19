@@ -25,3 +25,8 @@
     name = "About"
     url = "/about/"
     weight = 30
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 40

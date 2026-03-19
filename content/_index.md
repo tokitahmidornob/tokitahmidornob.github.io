@@ -15,6 +15,6 @@ I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**
 ---
 
 ### Technical Toolkit
-* **Languages:** {{< badge >}}C/C++{{< /badge >}} {{< badge >}}English{{< /badge >}} {{< badge >}}Bengali{{< /badge >}} {{< badge >}}Arabic{{< /badge >}}
-* **Engineering:** {{< badge >}}Mechanical Design{{< /badge >}} {{< badge >}}Manufacturing{{< /badge >}} {{< badge >}}Electronics{{< /badge >}}
-* **Systems:** {{< badge >}}Arch Linux{{< /badge >}} {{< badge >}}Windows Dual-Boot{{< /badge >}}
+* **Languages:** **[English]** **[Bengali]** **[Arabic]**
+* **Engineering:** **[Mechanical Design]** **[Manufacturing]** **[Electronics]**
+* **Systems:** **[Arch Linux]** **[C/C++]** **[NASA JPL Data Analysis]**

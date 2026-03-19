@@ -3,7 +3,7 @@ layout: "profile"
 ---
 
 ### Current Focus & Research
-I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**, maintaining a **CGPA of 3.87**. My work is centered on the intersection of advanced manufacturing and aerospace systems.
+I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**. My work is centered on the intersection of advanced manufacturing and aerospace systems.
 
 ---
 

@@ -236,46 +236,61 @@ article h1, article h2, article h3 {
     margin: 0 !important;
 }
 
-/* --- 12. Digital Dossier Overhaul (Distinct Data Cards) --- */
+/* --- 12. Tactical Data Card System (The Redesign) --- */
 
-/* 1. Reset the list container to force vertical stacking */
+/* 1. The Container: Force a clean vertical column with breathing room */
 .prose ul {
     list-style: none !important;
-    padding-left: 0 !important;
-    margin-left: 0 !important;
+    padding: 0 !important;
+    margin: 2rem 0 !important;
     display: flex !important;
-    flex-direction: column !important; /* Forces items to stack vertically */
-    gap: 2rem !important; /* Adds clear distance between different points */
+    flex-direction: column !important;
+    gap: 1.5rem !important; /* Space between cards */
 }
 
-/* 2. Style each distinct point as a "Data Card" */
+/* 2. The Card: Glassmorphism effect with neon accents */
 .prose li {
-    display: block !important; /* Ensures it takes up the full width */
-    text-align: center;
-    padding: 1rem 0;
-    width: 100% !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    backdrop-filter: blur(8px) !important;
+    border: 1px solid rgba(0, 212, 255, 0.2) !important; /* Neon blue border */
+    border-radius: 12px !important;
+    padding: 1.5rem !important;
+    text-align: center !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
 }
 
-/* 3. The "Header" of the point (e.g., NASA Citizen Scientist) */
+/* 3. Hover Effect: The card "glows" when touched or hovered */
+.prose li:hover {
+    border-color: #00d4ff !important;
+    background: rgba(0, 212, 255, 0.05) !important;
+    transform: translateY(-3px);
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.2) !important;
+}
+
+/* 4. The Header: Monospace title for that "NASA Terminal" look */
 .prose li strong {
-    display: block !important; /* Put the title on its own line */
-    color: #00d4ff; 
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1.2rem;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    margin-bottom: 0.5rem;
+    display: block !important;
+    color: #00d4ff !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-size: 1rem !important;
+    text-transform: uppercase !important;
+    letter-spacing: 2px !important;
+    margin-bottom: 0.75rem !important;
+    border-bottom: 1px solid rgba(0, 212, 255, 0.1);
+    padding-bottom: 0.5rem;
 }
 
-/* 4. The "Body" text of the point */
+/* 5. The Content: Clean, readable text */
 .prose li {
-    color: rgba(255, 255, 255, 0.9);
-    line-height: 1.8;
+    font-size: 0.95rem !important;
+    color: rgba(255, 255, 255, 0.85) !important;
+    line-height: 1.6 !important;
 }
 
-/* 5. Mobile spacing tweak */
-@media (max-width: 768px) {
-    .prose li {
-        margin-bottom: 1.5rem !important;
-    }
+/* 6. Special Handling for the [Brackets] in Technical Toolkit */
+/* This adds a slight glow to your skill tags */
+.prose li:contains("[") {
+    letter-spacing: 0.5px;
+    font-weight: 500;
 }

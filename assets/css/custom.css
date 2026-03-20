@@ -203,3 +203,25 @@ article h1, article h2, article h3 {
     color: #000000;
     box-shadow: 0 0 20px rgba(0, 212, 255, 0.6);
 }
+
+/* --- 11. Avatar Optical Centering --- */
+.author-photo, .u-photo {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    overflow: hidden !important;
+    border-radius: 50% !important; /* Ensures the container is a perfect circle */
+}
+
+.author-photo img, img.u-photo {
+    /* Resets any theme-level offsets */
+    margin: 0 !important; 
+    
+    /* Forces the image to occupy the dead center of the circular frame */
+    object-fit: cover !important;
+    object-position: center center !important;
+    
+    /* Ensures the image fills the halo perfectly */
+    width: 100% !important;
+    height: 100% !important;
+}

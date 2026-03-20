@@ -9,6 +9,7 @@ images = ["/profile.jpg"]
   defaultAppearance = "dark"
   showAppearanceSwitcher = true
   showScrollToTop = true
+  customJS = ["js/custom.js"]
 
 [params.header]
   layout = "fixed"
@@ -62,7 +63,7 @@ images = ["/profile.jpg"]
   name = "Articles"
   url = "/articles/"
   weight = 40
-  
+
 [[menu.main]]
   name = "Gallery"
   url = "/gallery/"

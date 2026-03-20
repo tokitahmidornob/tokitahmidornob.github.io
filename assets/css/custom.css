@@ -2,3 +2,9 @@
   object-fit: cover;
   object-position: center;
 }
+
+body {
+    background-image: url('/background.svg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

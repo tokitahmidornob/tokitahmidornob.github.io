@@ -9,7 +9,7 @@ A collection of visual evidence documenting engineering prototypes, leadership e
   <img src="/gallery/ayman-fest.jpg" alt="Ayman Sadiq GST Science fest" />
   <img src="/gallery/Ayman_Sadiq_DC.jpeg" alt="Ayman Sadiq DC" />
   <img src="/gallery/Ayman_sadiq_story.jpg" alt="Ayman Sadiq Story" />
-  <img src="/gallery/BTM%20Prize%20Giving.jpg" alt="BTM Prize Giving" />
+  <img src="/gallery/btm-prize.jpg" alt="BTM Prize Giving" />
   <img src="/gallery/BTM_Prize_photocard.jpg" alt="BTM Prize Photocard" />
   <img src="/gallery/BTM_prize_with_principal.jpg" alt="BTM Prize With Principal" />
   <img src="/gallery/BTM_stage.jpg" alt="BTM Stage" />

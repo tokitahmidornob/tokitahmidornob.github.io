@@ -236,47 +236,46 @@ article h1, article h2, article h3 {
     margin: 0 !important;
 }
 
-/* --- 12. Digital Dossier Styling (Remove Bullets & Beautify) --- */
+/* --- 12. Digital Dossier Overhaul (Distinct Data Cards) --- */
 
-/* 1. Remove standard bullets from the homepage lists */
+/* 1. Reset the list container to force vertical stacking */
 .prose ul {
     list-style: none !important;
     padding-left: 0 !important;
     margin-left: 0 !important;
+    display: flex !important;
+    flex-direction: column !important; /* Forces items to stack vertically */
+    gap: 2rem !important; /* Adds clear distance between different points */
 }
 
-/* 2. Center the list items and add tactical spacing */
+/* 2. Style each distinct point as a "Data Card" */
 .prose li {
+    display: block !important; /* Ensures it takes up the full width */
     text-align: center;
-    margin-bottom: 2.5rem !important;
-    position: relative;
+    padding: 1rem 0;
+    width: 100% !important;
 }
 
-/* 3. Style the "Keys" (NASA Citizen Scientist, Languages, etc.) */
+/* 3. The "Header" of the point (e.g., NASA Citizen Scientist) */
 .prose li strong {
-    display: block;
-    color: #00d4ff; /* Neon Blue */
+    display: block !important; /* Put the title on its own line */
+    color: #00d4ff; 
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 0.75rem;
-    text-shadow: 0 0 10px rgba(0, 212, 255, 0.3);
+    letter-spacing: 1.5px;
+    margin-bottom: 0.5rem;
 }
 
-/* 4. The "Telemetry Chips" (Beautifying the [Brackets]) */
-/* This targets the text inside the brackets to look like UI elements */
+/* 4. The "Body" text of the point */
 .prose li {
-    color: rgba(255, 255, 255, 0.8);
-    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.8;
 }
 
-/* Add a subtle separator between items for mobile clarity */
-.prose li:not(:last-child)::after {
-    content: "";
-    display: block;
-    width: 40px;
-    height: 1px;
-    background: rgba(0, 212, 255, 0.2);
-    margin: 1.5rem auto 0 auto;
+/* 5. Mobile spacing tweak */
+@media (max-width: 768px) {
+    .prose li {
+        margin-bottom: 1.5rem !important;
+    }
 }

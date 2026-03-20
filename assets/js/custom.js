@@ -41,7 +41,7 @@ let isDeleting = false;
 
 function typeTelemetry() {
     const telemetrySpan = document.getElementById("telemetry-text");
-    if (!telemetrySpan) return; // Only runs if the terminal exists on the page
+    if (!telemetrySpan) return; // Only runs if the terminal exists
 
     const currentTitle = titles[titleIndex];
 
@@ -70,7 +70,11 @@ function typeTelemetry() {
     setTimeout(typeTelemetry, typeSpeed);
 }
 
-// Start the terminal when the page loads
-document.addEventListener("DOMContentLoaded", function() {
-    setTimeout(typeTelemetry, 500); // Slight delay for dramatic effect
-});
+// BULLETPROOF IGNITION: Checks if the page is already loaded before waiting
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", function() {
+        setTimeout(typeTelemetry, 500);
+    });
+} else {
+    setTimeout(typeTelemetry, 500);
+}

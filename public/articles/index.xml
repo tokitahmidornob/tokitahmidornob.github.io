@@ -19,5 +19,15 @@
       
     </item>
     
+    <item>
+      <title>Wireless Frontiers: The Engineering of Long-Distance Power Transmission</title>
+      <link>http://localhost:1313/articles/mpt-engineering/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/mpt-engineering/</guid>
+      <description>An analytical breakdown of Microwave Power Transmission (MPT) systems, focusing on magnetron efficiency and the Friis Transmission Equation.</description>
+      
+    </item>
+    
   </channel>
 </rss>

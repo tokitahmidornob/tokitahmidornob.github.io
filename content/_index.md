@@ -64,6 +64,6 @@ I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**
 
 ### Technical Toolkit
 
-* **Languages:** [English] [Bengali] [Arabic]
-* **Engineering:** [Mechanical Design] [Manufacturing] [Electronics]
-* **Systems:** [Arch Linux] [C/C++] [NASA JPL Data Analysis]
+* **Languages:** English, Bengali, Arabic,
+* **Engineering:** Mechanical Design, Manufacturing, Electronics
+* **Systems:** Arc Linux,C/C++,NASA JPL Data Analysis

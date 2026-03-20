@@ -236,61 +236,43 @@ article h1, article h2, article h3 {
     margin: 0 !important;
 }
 
-/* --- 12. Tactical Data Card System (The Redesign) --- */
+/* --- 12. Tactical Data Card System (Reinforced) --- */
 
-/* 1. The Container: Force a clean vertical column with breathing room */
-.prose ul {
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 2rem 0 !important;
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 1.5rem !important; /* Space between cards */
-}
-
-/* 2. The Card: Glassmorphism effect with neon accents */
-.prose li {
+/* 1. Force every list item to be a full-width block (no bonding) */
+.prose ul li {
+    display: block !important; /* Forces a new line for every item */
+    width: 100% !important;
+    margin-bottom: 1.5rem !important; /* Space between cards */
     background: rgba(255, 255, 255, 0.03) !important;
-    backdrop-filter: blur(8px) !important;
-    border: 1px solid rgba(0, 212, 255, 0.2) !important; /* Neon blue border */
-    border-radius: 12px !important;
-    padding: 1.5rem !important;
-    text-align: center !important;
-    transition: all 0.3s ease !important;
+    backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(0, 212, 255, 0.2) !important;
+    border-radius: 10px !important;
+    padding: 1.25rem !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
+    text-align: center !important;
 }
 
-/* 3. Hover Effect: The card "glows" when touched or hovered */
-.prose li:hover {
-    border-color: #00d4ff !important;
-    background: rgba(0, 212, 255, 0.05) !important;
-    transform: translateY(-3px);
-    box-shadow: 0 0 20px rgba(0, 212, 255, 0.2) !important;
-}
-
-/* 4. The Header: Monospace title for that "NASA Terminal" look */
-.prose li strong {
-    display: block !important;
+/* 2. Force the Headline (Strong Text) to its own line at the top of the card */
+.prose ul li strong {
+    display: block !important; 
     color: #00d4ff !important;
     font-family: 'Courier New', Courier, monospace !important;
-    font-size: 1rem !important;
+    font-size: 1.1rem !important;
     text-transform: uppercase !important;
-    letter-spacing: 2px !important;
-    margin-bottom: 0.75rem !important;
-    border-bottom: 1px solid rgba(0, 212, 255, 0.1);
-    padding-bottom: 0.5rem;
+    letter-spacing: 1.5px !important;
+    margin-bottom: 0.5rem !important;
 }
 
-/* 5. The Content: Clean, readable text */
-.prose li {
+/* 3. Style for the description text inside the card */
+.prose ul li {
     font-size: 0.95rem !important;
-    color: rgba(255, 255, 255, 0.85) !important;
-    line-height: 1.6 !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    line-height: 1.5 !important;
 }
 
-/* 6. Special Handling for the [Brackets] in Technical Toolkit */
-/* This adds a slight glow to your skill tags */
-.prose li:contains("[") {
-    letter-spacing: 0.5px;
-    font-weight: 500;
+/* 4. Remove default theme bullets and padding */
+.prose ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
 }

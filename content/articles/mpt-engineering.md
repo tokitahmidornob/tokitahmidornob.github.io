@@ -33,3 +33,7 @@ The implications of MPT extend far beyond the laboratory. For the **H.O.L.M.E.S.
 3. **Remote Sensing:** Providing energy to sensors in hazardous or unreachable environments.
 
 *Engineering the future requires mastering the invisible. The MPT project is our first step into a wireless world.*
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>

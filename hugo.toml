@@ -12,10 +12,10 @@ theme = 'blowfish'
   keyword = "Toki Tahmid, Mechanical Engineering, IUBAT, NASA Citizen Scientist, Aerospace, MPT System, Bangladesh"
   robots = "index, follow"
   
-  # Theme Settings
+  # Theme Settings (LOCKED TO DARK MODE)
   colorScheme = "aurora"
   defaultAppearance = "dark"
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false  
   showScrollToTop = true
   customJS = ["js/custom.js"]
   math = true

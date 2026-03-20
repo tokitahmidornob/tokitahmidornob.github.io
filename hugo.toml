@@ -8,7 +8,7 @@ theme = 'blowfish'
 [params]
   # Global SEO & Preview Envelopes
   description = "Mechanical Engineering Portfolio of Toki Tahmid. Discover aerospace research, NASA asteroid discoveries, and the H.O.L.M.E.S. Initiative."
-  images = ["/image_8bac44.png"]
+  images = ["/profile.jpg"]
   keyword = "Toki Tahmid, Mechanical Engineering, IUBAT, NASA Citizen Scientist, Aerospace, MPT System, Bangladesh"
   robots = "index, follow"
   
@@ -29,7 +29,7 @@ theme = 'blowfish'
 
 [params.author]
   name = "Toki Tahmid"
-  image = "image_8bac44.png"
+  image = "profile.jpg"
   headline = "Mechanical Engineering Student | NASA Citizen Scientist | Researcher"
   bio = "Aspiring Aerospace Engineer focused on the intersection of mechanical systems and celestial discovery."
   links = [

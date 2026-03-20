@@ -3,7 +3,7 @@
   lang="en"
   dir="ltr"
   class="scroll-smooth"
-  data-default-appearance="light"
+  data-default-appearance="dark"
   data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
@@ -110,8 +110,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.2c9fb1d6be71cf6bce5f73e4e2e514674e4e67de83dfd9fbf8eae2ca083962595dcaf9525e34d2106f89267d244ece892d3f7b8e1dfff2879a9f0f7d34e52db5.css"
-    integrity="sha512-LJ&#43;x1r5xz2vOX3Pk4uUUZ05OZ96D39n7&#43;Oriygg5YlldyvlSXjTSEG&#43;JJn0kTs6JLT97jh3/8oeanw99NOUttQ==">
+    href="/css/main.bundle.min.c3550a9ae521c829c7119f8ba2b0ce58d7e4ec6f7373766c18fd76e180f87c2de28e6e68b820466e6be47a603850a07688be0cd51f669b1eeb9e1e50181f7dcc.css"
+    integrity="sha512-w1UKmuUhyCnHEZ&#43;LorDOWNfk7G9zc3ZsGP124YD4fC3ijm5ouCBGbmvkemA4UKB2iL4M1R9mmx7rnh5QGB99zA==">
 
   
   
@@ -282,7 +282,13 @@
     </div>
     
     
-      <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
+      <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 z-100">
+  <div
+    id="menu-blur"
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl bg-neutral/25 dark:bg-neutral-800/25"></div>
+  <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
+    <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
   
     <a href="/" class="text-base font-medium truncate min-w-0 shrink">
@@ -552,6 +558,16 @@
 
 
 
+  </div>
+</div>
+
+
+<script
+  type="text/javascript"
+  src="/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js"
+  integrity="sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W&#43;5DcKnbOMMOI&#43;f7IvMGNsVvUfj&#43;ooJ13n6EqqcGEz2FKMVvHLGwWPQ=="
+  data-blur-id="menu-blur"></script>
+
     
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
@@ -618,29 +634,15 @@
     
 
     
-      <section class="space-y-10 w-full">
+      
         
           
-            
-              <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-                2026
-              </h2>
-            
-            
+            <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+              2026
+            </h2>
+            <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
 
 
 
@@ -677,10 +679,12 @@
 
 
 
-<article class="article-link--simple flex flex-col md:flex-row relative">
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="p-4">
+    <header>
       <a
         
           href="/projects/holmes-initiative/"
@@ -691,8 +695,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -764,21 +766,8 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
 
 
 
@@ -815,10 +804,12 @@
 
 
 
-<article class="article-link--simple flex flex-col md:flex-row relative">
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="p-4">
+    <header>
       <a
         
           href="/projects/hult-prize/"
@@ -829,8 +820,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -902,28 +891,17 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
-          
-            
-              <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-                2019
-              </h2>
-            
-            
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+            </section>
+          
+        
+          
+            <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+              2019
+            </h2>
+            <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+              
+                
 
 
 
@@ -960,10 +938,12 @@
 
 
 
-<article class="article-link--simple flex flex-col md:flex-row relative">
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="p-4">
+    <header>
       <a
         
           href="/projects/asteroid-discovery/"
@@ -974,8 +954,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1047,11 +1025,13 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
+              
+            </section>
           
         
-      </section>
-    
+
+      
+      
     
   
   

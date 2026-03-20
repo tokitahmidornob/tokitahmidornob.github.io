@@ -100,3 +100,18 @@ article h1, article h2, article h3 {
     border: 1px solid rgba(0, 212, 255, 0.8) !important; /* Brighten neon edge */
     box-shadow: 0 10px 30px rgba(0, 212, 255, 0.4) !important; /* Active thruster glow */
 }
+
+/* --- 8. The Quantum Reveal Physics Engine --- */
+/* The Initial State: Invisible and pushed down 40 pixels */
+.quantum-reveal {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), 
+                transform 0.8s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+/* The Active State: Fully visible and resting in its true position */
+.quantum-reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}

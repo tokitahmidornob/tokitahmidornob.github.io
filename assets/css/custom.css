@@ -64,3 +64,39 @@ article h1, article h2, article h3 {
     text-shadow: 0 0 10px rgba(0, 212, 255, 0.3);
     margin-bottom: 1rem !important;
 }
+
+/* --- 6. The Master Gallery Organizer --- */
+/* This forces all 22 images into a modern, responsive grid */
+.gallery-grid {
+    display: grid !important;
+    /* This creates a minimum of 280px wide columns that auto-fill the space */
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+    gap: 20px !important; /* Space between photos */
+    padding: 20px 0 !important;
+}
+
+/* This styles every image inside the grid */
+.gallery-grid img {
+    /* ORGANIZATION: Force uniform height for a clean grid */
+    width: 100% !important;
+    height: 250px !important; /* Set all images to the same height */
+    object-fit: cover !important; /* Prevents stretching, crops from center */
+    
+    /* DESIGN: Apply the Glassmorphism Aesthetic */
+    background: rgba(20, 25, 40, 0.4) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(0, 212, 255, 0.15) !important; /* Neon border */
+    border-radius: 12px !important; /* Rounded corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important; /* subtle shadow */
+    transition: all 0.4s ease !important; /* smooth hover */
+    cursor: pointer;
+}
+
+/* --- 7. Gallery Hover Physics --- */
+/* The photos will physically lift and ignite when touched by the mouse */
+.gallery-grid img:hover {
+    transform: translateY(-8px) scale(1.03) !important; /* Physical lift and enlarge */
+    border: 1px solid rgba(0, 212, 255, 0.8) !important; /* Brighten neon edge */
+    box-shadow: 0 10px 30px rgba(0, 212, 255, 0.4) !important; /* Active thruster glow */
+}

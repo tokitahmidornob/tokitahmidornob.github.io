@@ -5,7 +5,7 @@ layout: "simple"
 
 A collection of visual evidence documenting engineering prototypes, leadership events, and the journey behind the research.
 
-{{< gallery >}}
+<div class="gallery-grid">
   <img src="/gallery/Ayman_sadiq_GST_science_fest.jpg" alt="Ayman Sadiq GST Science Fest" />
   <img src="/gallery/BTM_Prize_giving.jpg" alt="BTM Prize Giving" />
   <img src="/gallery/Rover_camp_team.jpg" alt="Rover Camp Team" />
@@ -28,4 +28,4 @@ A collection of visual evidence documenting engineering prototypes, leadership e
   <img src="/gallery/Principal2_BAFSD.jpeg" alt="Principal BAFSD 2" />
   <img src="/gallery/Ayman_Sadiq_DC.jpeg" alt="Ayman Sadiq DC" />
   <img src="/gallery/Ayman_sadiq_story.jpg" alt="Ayman Sadiq Story" />
-{{< /gallery >}}
+</div>

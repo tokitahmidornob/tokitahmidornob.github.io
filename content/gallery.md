@@ -6,7 +6,7 @@ layout: "simple"
 A collection of visual evidence documenting engineering prototypes, leadership events, and the journey behind the research.
 
 <div class="gallery-grid">
-  <img src="/gallery/Ayman%20Sadiq%20GST%20Science%20fest.jpg" alt="Ayman Sadiq GST Science fest" />
+  <img src="/gallery/ayman-fest.jpg" alt="Ayman Sadiq GST Science fest" />
   <img src="/gallery/Ayman_Sadiq_DC.jpeg" alt="Ayman Sadiq DC" />
   <img src="/gallery/Ayman_sadiq_story.jpg" alt="Ayman Sadiq Story" />
   <img src="/gallery/BTM%20Prize%20Giving.jpg" alt="BTM Prize Giving" />

@@ -1,6 +1,8 @@
 baseURL = 'https://tokitahmidornob.github.io/'
 title = 'Toki Tahmid | Digital Portfolio'
 theme = 'blowfish'
+description = "Mechanical Engineering Portfolio of Toki Tahmid. Discover aerospace research, NASA asteroid discoveries, and the H.O.L.M.E.S. Initiative."
+images = ["/profile.jpg"]
 
 [params]
   colorScheme = "blowfish"
@@ -20,9 +22,9 @@ theme = 'blowfish'
   headline = "Mechanical Engineering Student | NASA Citizen Scientist | Researcher"
   bio = "Aspiring Aerospace Engineer focused on the intersection of mechanical systems and celestial discovery."
   links = [
-    { email = "mailto:tokitahmidornob@gmail.com" },
     { github = "https://github.com/tokitahmidornob" },
-    { linkedin = "https://linkedin.com/in/your-profile" },
+    { linkedin = "https://www.linkedin.com/in/toki-tahmid-ornob-761668340/" },
+    { "file-pdf" = "/resume.pdf" }
   ]
 
 [menu]

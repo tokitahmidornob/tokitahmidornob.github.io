@@ -1,32 +1,48 @@
-.author-image img {
-  object-fit: cover;
-  object-position: center;
-}
-
+/* --- 1. The Deep Space Nebula Background --- */
+/* This creates a vibrant, slow-shifting, multi-colored animated background */
 body {
-    background-image: url('/background.svg');
-    background-repeat: repeat;
-    background-attachment: fixed;
+    background: linear-gradient(-45deg, #0b1021, #1b0033, #001f3f, #330022) !important;
+    background-size: 400% 400% !important;
+    animation: nebulaShift 20s ease infinite !important;
+    background-attachment: fixed !important;
 }
 
-/* --- Aerospace Portrait Glow --- */
+@keyframes nebulaShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* --- 2. Frosted Glass Geometry (Glassmorphism) --- */
+/* This turns your cards into semi-transparent glass so the nebula shines through */
+.bg-neutral-100, .bg-neutral-800, .dark .bg-neutral-800, article, .rounded-2xl {
+    background: rgba(20, 25, 40, 0.4) !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px) !important;
+    border: 1px solid rgba(0, 212, 255, 0.15) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5) !important;
+}
+
+/* --- 3. Neon Tracers & Hover Physics --- */
+/* Cards will physically lift and ignite with neon colors when a mouse touches them */
+article:hover, .rounded-2xl:hover {
+    transform: translateY(-8px) scale(1.02) !important;
+    border: 1px solid rgba(0, 212, 255, 0.8) !important;
+    box-shadow: 0 0 30px rgba(0, 212, 255, 0.4), inset 0 0 20px rgba(138, 43, 226, 0.3) !important;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+}
+
+/* --- 4. The Super-Thruster Avatar --- */
+/* Wraps your profile picture in a vibrant, glowing energy ring */
 img[alt*="Toki Tahmid"], img[alt*="profile"] {
-    box-shadow: 0 0 25px rgba(0, 212, 255, 0.2);
-    transition: transform 0.5s ease, box-shadow 0.5s ease !important;
+    border-radius: 50%;
+    padding: 4px;
+    background: linear-gradient(45deg, #00d4ff, #8a2be2, #ff007f) !important;
+    box-shadow: 0 0 25px rgba(138, 43, 226, 0.5) !important;
+    transition: all 0.5s ease !important;
 }
 
 img[alt*="Toki Tahmid"]:hover, img[alt*="profile"]:hover {
-    transform: scale(1.06) !important;
-    box-shadow: 0 0 45px rgba(0, 212, 255, 0.6) !important;
-}
-
-/* --- Project Card Levitation --- */
-/* This makes your project cards physically lift off the page when hovered */
-article, .rounded-2xl {
-    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease !important;
-}
-
-article:hover, .rounded-2xl:hover {
-    transform: translateY(-8px) !important;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(0, 212, 255, 0.1) !important;
+    transform: scale(1.08) rotate(3deg) !important;
+    box-shadow: 0 0 60px rgba(255, 0, 127, 0.7), 0 0 90px rgba(0, 212, 255, 0.5) !important;
 }

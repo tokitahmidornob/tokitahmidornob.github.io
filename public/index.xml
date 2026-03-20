@@ -40,6 +40,16 @@
     </item>
     
     <item>
+      <title>Wireless Electricity Transmission by Microwave (MPT)</title>
+      <link>http://localhost:1313/projects/mpt-mig29/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mpt-mig29/</guid>
+      <description>An award-winning engineering prototype demonstrating the wireless transmission of high-voltage electricity via microwave frequencies, eliminating the need for traditional power grids.</description>
+      
+    </item>
+    
+    <item>
       <title>NASA Citizen Scientist: Asteroid Discovery</title>
       <link>http://localhost:1313/projects/asteroid-discovery/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
@@ -50,22 +60,32 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <title>Gallery &amp; Visual Archive</title>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;form action=&#34;https://formspree.io/f/mzdjordn&#34; method=&#34;POST&#34; style=&#34;margin-top: 2rem; display: flex; flex-direction: column; gap: 1rem; max-width: 500px;&#34;&gt;&#xD;&#xA;  &lt;label&gt;&lt;strong&gt;Name&lt;/strong&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; required style=&#34;width: 100%; padding: 0.5rem; margin-top: 0.25rem; border-radius: 4px; border: 1px solid #ccc; color: black;&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;label&gt;&lt;strong&gt;Email&lt;/strong&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; required style=&#34;width: 100%; padding: 0.5rem; margin-top: 0.25rem; border-radius: 4px; border: 1px solid #ccc; color: black;&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;label&gt;&lt;strong&gt;Message&lt;/strong&gt;&#xD;&#xA;    &lt;textarea name=&#34;message&#34; rows=&#34;5&#34; required style=&#34;width: 100%; padding: 0.5rem; margin-top: 0.25rem; border-radius: 4px; border: 1px solid #ccc; color: black;&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;button type=&#34;submit&#34; style=&#34;padding: 0.75rem; background-color: #2563eb; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 1rem;&#34;&gt;Transmit Message&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;</description>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>&lt;p&gt;A collection of visual evidence documenting engineering prototypes, leadership events, and the journey behind the research.&lt;/p&gt;&#xA;&lt;div class=&#34;gallery-grid&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/ayman-fest.jpg&#34; alt=&#34;Ayman Sadiq GST Science fest&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Ayman_Sadiq_DC.jpeg&#34; alt=&#34;Ayman Sadiq DC&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Ayman_sadiq_story.jpg&#34; alt=&#34;Ayman Sadiq Story&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/btm-prize.jpg&#34; alt=&#34;BTM Prize Giving&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/BTM_Prize_photocard.jpg&#34; alt=&#34;BTM Prize Photocard&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/BTM_prize_with_principal.jpg&#34; alt=&#34;BTM Prize With Principal&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/BTM_stage.jpg&#34; alt=&#34;BTM Stage&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/BTM_Team.jpg&#34; alt=&#34;BTM Team&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Channel_24.jpg&#34; alt=&#34;Channel 24&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/DB%20award.jpg&#34; alt=&#34;DB Award&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/IUB_Fahadsir.jpg&#34; alt=&#34;IUB Fahad Sir&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Photo%20With%20Principal%20BAFSD.jpg&#34; alt=&#34;Photo With Principal BAFSD&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Principal2_BAFSD.jpeg&#34; alt=&#34;Principal BAFSD 2&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/regular01.jpg&#34; alt=&#34;Regular 01&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Rover_camp_team.jpg&#34; alt=&#34;Rover Camp Team&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Rover_duty_BICC.jpg&#34; alt=&#34;Rover Duty BICC&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Rover_moot_cultural.jpg&#34; alt=&#34;Rover Moot Cultural&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/SJS%20SC%20Fest%20Fahad%20sir.jpg&#34; alt=&#34;SJS SC Fest Fahad Sir&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Tilawat_BAFSD.jpg&#34; alt=&#34;Tilawat BAFSD&#34; /&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/gallery/Vice_principal_BAFSD.jpg&#34; alt=&#34;Vice Principal BAFSD&#34; /&gt;&#xD;&#xA;&lt;/div&gt;</description>
       
     </item>
     
     <item>
-      <title>Academic Life &amp; Research</title>
+      <title>Mission Control: Toki Tahmid</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h3 class=&#34;relative group&#34;&gt;The Objective&#xD;&#xA;    &lt;div id=&#34;the-objective&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-objective&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Applying mechanical engineering principles and self-directed biomedical research to innovate within aerospace and cross-disciplinary engineering, driven by a commitment to the H.O.L.M.E.S. research initiative.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Academic Foundation &amp;amp; History&#xD;&#xA;    &lt;div id=&#34;academic-foundation--history&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#academic-foundation--history&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;BSc in Mechanical Engineering&lt;/strong&gt; | &lt;em&gt;IUBAT&lt;/em&gt;&#xA;&lt;em&gt;Expected Graduation: May 2028&lt;/em&gt;&#xA;Currently advancing through my core coursework with a rigorous focus on Advanced Manufacturing, Linear Algebra, Economics, and Electronics. This formal education serves as the physical framework for my broader aerospace and autonomous systems ambitions.&lt;/p&gt;</description>
+      <description>Mechanical Engineer, Aerospace Researcher, and Co-Founder of the H.O.L.M.E.S. Initiative.</description>
+      
+    </item>
+    
+    <item>
+      <title>Secure Communications Relay</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;If you are reviewing my MPT schematics, the H.O.L.M.E.S. Initiative framework, or wish to discuss aerospace engineering collaborations, you may initiate a secure transmission below.&lt;/p&gt;&#xA;&lt;div class=&#34;contact-container&#34; style=&#34;margin-top: 2.5rem;&#34;&gt;&#xD;&#xA;  &lt;form action=&#34;https://formspree.io/f/maqpkqna&#34; method=&#34;POST&#34; class=&#34;glass-form&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Originating Identity&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; name=&#34;name&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;Name / Organization&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Return Channel&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;email&#34; name=&#34;email&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;email@example.com&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Transmission Payload&lt;/label&gt;&#xD;&#xA;      &lt;textarea name=&#34;message&#34; rows=&#34;6&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;Type your dispatch here...&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;button type=&#34;submit&#34; style=&#34;background: transparent; color: #00d4ff; border: 2px solid #00d4ff; padding: 10px 20px; cursor: pointer; width: 100%; font-weight: bold;&#34;&gt;INITIATE TRANSMISSION&lt;/button&gt;&#xD;&#xA;  &lt;/form&gt;&#xD;&#xA;&lt;/div&gt;</description>
       
     </item>
     

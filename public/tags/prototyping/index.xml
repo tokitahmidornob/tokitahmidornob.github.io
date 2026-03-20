@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping on Toki Tahmid | Digital Portfolio</title>
+    <link>http://localhost:1313/tags/prototyping/</link>
+    <description>Recent content in Prototyping on Toki Tahmid | Digital Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Toki Tahmid</copyright>
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wireless Electricity Transmission by Microwave (MPT)</title>
+      <link>http://localhost:1313/projects/mpt-mig29/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mpt-mig29/</guid>
+      <description>An award-winning engineering prototype demonstrating the wireless transmission of high-voltage electricity via microwave frequencies, eliminating the need for traditional power grids.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

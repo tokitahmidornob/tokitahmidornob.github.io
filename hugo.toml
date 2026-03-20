@@ -1,8 +1,10 @@
 baseURL = 'https://tokitahmidornob.github.io/'
 title = 'Toki Tahmid | Digital Portfolio'
 theme = 'blowfish'
+
+# 1. Global SEO & Preview Envelopes
 description = "Mechanical Engineering Portfolio of Toki Tahmid. Discover aerospace research, NASA asteroid discoveries, and the H.O.L.M.E.S. Initiative."
-images = ["/profile.jpg"]
+images = ["/image_8bac44.png"] # Target updated to your exact, centered avatar
 
 [params]
   colorScheme = "aurora"
@@ -12,6 +14,10 @@ images = ["/profile.jpg"]
   customJS = ["js/custom.js"]
   math = true
 
+  # 2. Algorithmic Keywords (Invisible to humans, read by Google)
+  keyword = "Toki Tahmid, Mechanical Engineering, IUBAT, NASA Citizen Scientist, Aerospace, MPT System, Bangladesh"
+  robots = "index, follow"
+
 [params.header]
   layout = "fixed"
   backdropBlur = true
@@ -20,8 +26,9 @@ images = ["/profile.jpg"]
   writeStats = true
 
 [params.author]
+  # 3. The Mastermind Identity (Used by Blowfish for author cards)
   name = "Toki Tahmid"
-  image = "profile.jpg"
+  image = "image_8bac44.png"
   headline = "Mechanical Engineering Student | NASA Citizen Scientist | Researcher"
   bio = "Aspiring Aerospace Engineer focused on the intersection of mechanical systems and celestial discovery."
   links = [

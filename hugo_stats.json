@@ -311,8 +311,10 @@
       "main-content",
       "mathematical-modeling--physics",
       "menu-blur",
+      "microgravity-and-the-biomechanical-interface",
       "mobile-menu-toggle",
       "overview-the-energy-crisis-solution",
+      "pathology-and-redundancy",
       "pillar-i-generation--up-conversion",
       "pillar-ii-the-physics-of-transmission",
       "pillar-iii-the-rectenna--rectification",
@@ -331,12 +333,15 @@
       "technical-toolkit",
       "telemetry-text",
       "the-cross-disciplinary-advantage",
+      "the-fragile-variable",
       "the-fundamental-breakdown",
       "the-holmes-approach",
+      "the-holmes-initiative-directive",
       "the-objective-cutting-the-cord",
       "the-operational-horizon",
       "the-top",
-      "the-trajectory"
+      "the-trajectory",
+      "thermodynamics-of-closed-loop-life-support"
     ]
   }
 }

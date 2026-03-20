@@ -276,3 +276,24 @@ article h1, article h2, article h3 {
     padding-left: 0 !important;
     margin-left: 0 !important;
 }
+
+/* --- 13. Visual Evidence Gallery Grid --- */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.gallery-card {
+    padding: 1.5rem !important;
+    text-align: left !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gallery-card img {
+    object-fit: cover;
+    aspect-ratio: 16/9; /* Keeps all photos uniform */
+    border: 1px solid rgba(0, 212, 255, 0.2);
+}

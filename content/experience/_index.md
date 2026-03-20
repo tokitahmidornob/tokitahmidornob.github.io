@@ -1,17 +1,36 @@
 ---
-title: "Experience & Leadership"
+title: "Operational Timeline & Experience"
 layout: "simple"
+summary: "A chronological ledger of research, academic, and enterprise operations."
 ---
 
-### Leadership History
+## Executive & Research Operations
 
-**Club Administrator** | BAF Shaheen College Dhaka Science Club  
-*April 2023 — March 2024* * Oversaw club operations and coordinated national-level science events and workshops.
-* Fostered student engagement in STEM, strengthening organizational and communication skills.
+### **Co-Founder & Lead Investigator** | *H.O.L.M.E.S. Research Group*
+**February 2026 – Present**
+* Spearheading a specialized four-member research coalition dedicated to the intersection of mechanical engineering, aerospace systems, and biomedical integration.
+* Authored the founding constitution and established the operational framework for advanced, cross-disciplinary research initiatives.
 
-**Assistant Rover Mate** | BAF Shaheen College Dhaka Air Scout Group  
-*Jan 2023 — Feb 2024* * Organized scout activities, training sessions, and community service projects.
-* Developed core competencies in teamwork, discipline, and high-pressure organization.
+### **Revenue & Performance Lead** | *SAPCMTY*
+**February 2026 – Present**
+* Architecting the foundational revenue generation models and performance tracking structures for the enterprise.
+* Applying analytical problem-solving to optimize organizational efficiency.
 
-**Organizing Secretary** | Quantum Encyclopedia & The Royal Corridor  
-*Mar 2020 — Dec 2021* * Led event planning and managed virtual teamwork for cross-border scientific projects.
+### **Executive Leadership Candidate** | *IUBAT Innovation & Entrepreneurship Center (IIEC)*
+**February 2026**
+* Selected for executive placement interviews for the roles of Organizing Secretary and Innovation Secretary.
+* Dedicated to driving university-wide innovation initiatives and managing structural organization for future entrepreneurial operations.
+
+---
+
+## Scientific & Academic Endeavors
+
+### **Citizen Scientist** | *NASA*
+**Ongoing**
+* Contributing to astronomical data analysis and asteroid discovery initiatives. 
+* Applying computational methodologies and precise data tracking to map near-Earth and deep-space objects.
+
+### **B.Sc. Mechanical Engineering** | *International University of Business Agriculture and Technology (IUBAT)*
+**Present (6th Semester)**
+* Maintaining a rigorous academic trajectory with exceptional standing (3.89 CGPA in 4th Semester, 3.87 in 5th Semester).
+* Current coursework focus: Manufacturing, Linear Algebra, and Electronics, laying the theoretical groundwork for advanced aerospace design.

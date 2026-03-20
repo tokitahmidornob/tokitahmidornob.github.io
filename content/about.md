@@ -1,29 +1,26 @@
 ---
-title: "Mission Control: Toki Tahmid"
+title: "The Mastermind: Identity & Operations"
 layout: "simple"
-summary: "Mechanical Engineer, Aerospace Researcher, and Co-Founder of the H.O.L.M.E.S. Initiative."
+summary: "An overview of Toki Tahmid: Mechanical Engineer, Aerospace Researcher, and Systems Strategist."
 ---
 
-## The Trajectory
-I am a Mechanical Engineering undergraduate at the International University of Business Agriculture and Technology (IUBAT), currently navigating my sixth semester with a singular, long-term objective: advanced aerospace engineering and a career at NASA. 
+## Operational Profile
 
-My engineering philosophy is rooted in First Principles thinking. I do not just learn how systems operate; I dissect the fundamental physics that govern them. From advanced manufacturing and linear algebra to thermodynamics and electronics, I build theoretical frameworks and translate them into award-winning physical prototypes—such as the Microwave Power Transmission (MPT) system engineered by Team MIG 29.
+I am a mechanical engineering operative currently navigating my 6th semester at the **International University of Business Agriculture and Technology (IUBAT)** in Dhaka. Originally hailing from Lakshmipur, my work is driven by a singular, overarching directive: to engineer systems capable of traversing the cosmos, with the ultimate objective of contributing to **NASA's** deep-space exploration initiatives.
 
 ## The Cross-Disciplinary Advantage
-The future of aerospace engineering is not solely about moving machines; it is about sustaining human life in extreme, extra-terrestrial environments. 
 
-To bridge the gap between mechanical systems and human endurance, I am engaged in rigorous, self-directed research into human anatomy, physiology, and pathology. By synthesizing mechanical engineering with biomedical sciences, I aim to design advanced life-support systems, biomechanical interfaces, and bio-astronautic solutions that push the boundaries of human spaceflight. 
+Modern aerospace challenges cannot be solved by mechanical physics alone. True innovation happens at the intersection of disciplines. 
 
-## Leadership & Operations
-Engineering requires technical precision, but execution requires leadership. 
+While my core academic training centers on thermodynamics, fluid mechanics, and structural load analysis, my independent research heavily incorporates **biomedical science**. By self-studying anatomy, physiology, and pathology, I aim to engineer advanced extra-terrestrial life-support systems. A spacecraft is useless if it cannot sustain its biological payload; my goal is to bridge the gap between heavy machinery and human endurance.
 
-As a Co-Founder of the **H.O.L.M.E.S. Initiative**, I lead a specialized, four-founder research organization dedicated to high-level problem-solving and technical innovation. 
+## Current Directives
 
-Beyond the laboratory, I actively optimize systems and strategies in the business sector, currently serving as the Revenue & Performance Lead for SAPCMTY. I also apply my operational frameworks to executive roles within the IUBAT Innovation & Entrepreneurship Center (IIEC), fostering a culture of technical entrepreneurship.
+* **The H.O.L.M.E.S. Initiative:** As Co-Founder and Lead Investigator, I am actively drafting the foundational constitution and operational framework for a specialized research coalition dedicated to aerospace and biomedical integration.
+* **SAPCMTY Architecture:** Currently serving as the Revenue & Performance Lead, applying engineering-level analytical problem-solving to corporate revenue tracking and organizational efficiency.
+* **NASA Citizen Science:** Actively contributing to astronomical data analysis, utilizing computational methodologies to map and identify near-Earth objects.
 
-## Technical Toolkit
-* **Core Disciplines:** Mechanical Engineering, Aerodynamics, Thermodynamics, Biomechanics.
-* **Software & Languages:** C/C++ Programming, CAD, CFD frameworks, Linux (Arch/Dual-Boot Environments).
-* **Current Competitions:** Hult Prize 2026.
-
-*The objective is clear: to engineer the systems that will take humanity further into the cosmos. The mission is already underway.*
+## Technical & Intellectual Arsenal
+* **Core Disciplines:** Advanced Manufacturing, Linear Algebra, Electronics, Fluid Mechanics.
+* **Languages & Systems:** C/C++ Programming, Arch Linux, CAD, and Computational Fluid Dynamics (CFD).
+* **Mental Models:** Applying rigorous critical thinking, decision-making lenses, and first-principles reasoning to both engineering problems and personal development.

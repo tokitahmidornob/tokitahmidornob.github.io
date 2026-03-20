@@ -54,3 +54,8 @@ theme = 'blowfish'
 
 [params.list]
   cardView = true
+
+[[menu.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 40

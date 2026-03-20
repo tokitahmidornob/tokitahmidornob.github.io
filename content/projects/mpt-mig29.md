@@ -1,6 +1,6 @@
 ---
 title: "Wireless Electricity Transmission by Microwave (MPT)"
-date: 2026-03-20
+date: 2024-11-02
 summary: "An award-winning engineering prototype demonstrating the wireless transmission of high-voltage electricity via microwave frequencies, eliminating the need for traditional power grids."
 tags: ["Mechanical Engineering", "Electromagnetics", "Renewable Energy", "Prototyping"]
 ---

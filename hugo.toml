@@ -5,13 +5,14 @@ description = "Mechanical Engineering Portfolio of Toki Tahmid. Discover aerospa
 images = ["/profile.jpg"]
 
 [params]
-  colorScheme = "blowfish"
+  colorScheme = "aurora"
   defaultAppearance = "dark"
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [params.header]
-  layout = "fixed" # This creates the beautiful blurred glass effect when you scroll
+  layout = "fixed"
+  backdropBlur = true
 
 [build]
   writeStats = true

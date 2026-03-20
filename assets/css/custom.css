@@ -8,3 +8,25 @@ body {
     background-repeat: repeat;
     background-attachment: fixed;
 }
+
+/* --- Aerospace Portrait Glow --- */
+img[alt*="Toki Tahmid"], img[alt*="profile"] {
+    box-shadow: 0 0 25px rgba(0, 212, 255, 0.2);
+    transition: transform 0.5s ease, box-shadow 0.5s ease !important;
+}
+
+img[alt*="Toki Tahmid"]:hover, img[alt*="profile"]:hover {
+    transform: scale(1.06) !important;
+    box-shadow: 0 0 45px rgba(0, 212, 255, 0.6) !important;
+}
+
+/* --- Project Card Levitation --- */
+/* This makes your project cards physically lift off the page when hovered */
+article, .rounded-2xl {
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease !important;
+}
+
+article:hover, .rounded-2xl:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(0, 212, 255, 0.1) !important;
+}

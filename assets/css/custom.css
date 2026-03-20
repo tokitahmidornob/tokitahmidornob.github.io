@@ -235,3 +235,48 @@ article h1, article h2, article h3 {
     border-radius: 50% !important;
     margin: 0 !important;
 }
+
+/* --- 12. Digital Dossier Styling (Remove Bullets & Beautify) --- */
+
+/* 1. Remove standard bullets from the homepage lists */
+.prose ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+/* 2. Center the list items and add tactical spacing */
+.prose li {
+    text-align: center;
+    margin-bottom: 2.5rem !important;
+    position: relative;
+}
+
+/* 3. Style the "Keys" (NASA Citizen Scientist, Languages, etc.) */
+.prose li strong {
+    display: block;
+    color: #00d4ff; /* Neon Blue */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 0.75rem;
+    text-shadow: 0 0 10px rgba(0, 212, 255, 0.3);
+}
+
+/* 4. The "Telemetry Chips" (Beautifying the [Brackets]) */
+/* This targets the text inside the brackets to look like UI elements */
+.prose li {
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.6;
+}
+
+/* Add a subtle separator between items for mobile clarity */
+.prose li:not(:last-child)::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 1px;
+    background: rgba(0, 212, 255, 0.2);
+    margin: 1.5rem auto 0 auto;
+}

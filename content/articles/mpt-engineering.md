@@ -3,6 +3,7 @@ title: "Wireless Frontiers: The Engineering of Long-Distance Power Transmission"
 date: 2026-03-20
 summary: "An analytical breakdown of Microwave Power Transmission (MPT) systems, focusing on magnetron efficiency and the Friis Transmission Equation."
 layout: "simple"
+math: true
 ---
 
 ## The Objective: Cutting the Cord

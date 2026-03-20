@@ -2,6 +2,11 @@
 layout: "profile"
 ---
 
+<div style="font-size: 1.25rem; margin-bottom: 1.5rem; text-align: center;">
+  <span>> Identity: </span>
+  <span id="telemetry-text"></span><span class="telemetry-cursor"></span>
+</div>
+
 ### Current Focus & Research
 I am currently navigating my 6th semester in **Mechanical Engineering at IUBAT**. My work is centered on the intersection of advanced manufacturing and aerospace systems.
 

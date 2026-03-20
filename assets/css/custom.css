@@ -115,3 +115,26 @@ article h1, article h2, article h3 {
     opacity: 1;
     transform: translateY(0);
 }
+/* --- 9. Telemetry Terminal Cursor --- */
+.telemetry-cursor {
+    display: inline-block;
+    width: 10px;
+    height: 1.2em;
+    background-color: #00d4ff; /* Glowing neon blue */
+    vertical-align: text-bottom;
+    margin-left: 4px;
+    animation: blink 1s step-end infinite;
+    box-shadow: 0 0 8px rgba(0, 212, 255, 0.8);
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+/* Optional: Style the text itself */
+#telemetry-text {
+    color: #00d4ff;
+    font-family: 'Courier New', Courier, monospace; /* Classic terminal font */
+    font-weight: bold;
+}

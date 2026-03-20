@@ -26,3 +26,51 @@ document.addEventListener("DOMContentLoaded", function() {
         observer.observe(target);
     });
 });
+
+/* --- The Telemetry Terminal Engine --- */
+const titles = [
+    "Mechanical Engineering Student...", 
+    "NASA Citizen Scientist...", 
+    "H.O.L.M.E.S. Co-Founder...",
+    "Aerospace Researcher..."
+];
+
+let titleIndex = 0;
+let charIndex = 0;
+let isDeleting = false;
+
+function typeTelemetry() {
+    const telemetrySpan = document.getElementById("telemetry-text");
+    if (!telemetrySpan) return; // Only runs if the terminal exists on the page
+
+    const currentTitle = titles[titleIndex];
+
+    // Typing or Deleting Logic
+    if (isDeleting) {
+        telemetrySpan.textContent = currentTitle.substring(0, charIndex - 1);
+        charIndex--;
+    } else {
+        telemetrySpan.textContent = currentTitle.substring(0, charIndex + 1);
+        charIndex++;
+    }
+
+    // Set pacing (deleting is faster than typing)
+    let typeSpeed = isDeleting ? 40 : 100;
+
+    // Word completion logic
+    if (!isDeleting && charIndex === currentTitle.length) {
+        typeSpeed = 2000; // Pause to let them read the full title
+        isDeleting = true;
+    } else if (isDeleting && charIndex === 0) {
+        isDeleting = false;
+        titleIndex = (titleIndex + 1) % titles.length;
+        typeSpeed = 400; // Pause before starting the next word
+    }
+
+    setTimeout(typeTelemetry, typeSpeed);
+}
+
+// Start the terminal when the page loads
+document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(typeTelemetry, 500); // Slight delay for dramatic effect
+});

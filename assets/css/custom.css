@@ -204,24 +204,34 @@ article h1, article h2, article h3 {
     box-shadow: 0 0 20px rgba(0, 212, 255, 0.6);
 }
 
-/* --- 11. Avatar Optical Centering --- */
-.author-photo, .u-photo {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    overflow: hidden !important;
-    border-radius: 50% !important; /* Ensures the container is a perfect circle */
+
+/* --- 11. Global Author Centering Overhaul --- */
+/* Target the entire top section container */
+.author-header {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important; /* Forces everything to the mathematical center */
+    text-align: center !important;
+    width: 100% !important;
 }
 
+/* Precision for the Photo Container */
+.author-photo, .u-photo {
+    margin: 0 auto 1.5rem auto !important; /* Centers the circle and adds breathing room below */
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 160px !important; /* Standardizing size to prevent theme shifting */
+    height: 160px !important;
+    position: relative !important;
+}
+
+/* Precision for the Image inside the halo */
 .author-photo img, img.u-photo {
-    /* Resets any theme-level offsets */
-    margin: 0 !important; 
-    
-    /* Forces the image to occupy the dead center of the circular frame */
-    object-fit: cover !important;
-    object-position: center center !important;
-    
-    /* Ensures the image fills the halo perfectly */
     width: 100% !important;
     height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    border-radius: 50% !important;
+    margin: 0 !important;
 }

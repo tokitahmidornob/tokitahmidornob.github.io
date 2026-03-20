@@ -297,3 +297,17 @@ article h1, article h2, article h3 {
     aspect-ratio: 16/9; /* Keeps all photos uniform */
     border: 1px solid rgba(0, 212, 255, 0.2);
 }
+
+/* --- 14. Terminal Lock: Obliterate Appearance Switcher --- */
+#appearance-switcher, 
+.appearance-switcher,
+button[id*="appearance"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    pointer-events: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}

@@ -3,7 +3,6 @@ title: "Wireless Electricity Transmission by Microwave (MPT)"
 date: 2024-11-02
 summary: "An award-winning engineering prototype demonstrating the wireless transmission of high-voltage electricity via microwave frequencies, eliminating the need for traditional power grids."
 tags: ["Mechanical Engineering", "Electromagnetics", "Renewable Energy", "Prototyping"]
-math: true
 ---
 
 ## Overview: The Energy Crisis Solution
@@ -21,16 +20,16 @@ The system relies on a three-stage transmission framework:
 ## Mathematical Modeling & Physics
 To calculate the exact power received over distance, the system architecture utilizes the **Friis Transmission Equation**:
 
-$$P_{r}=P_{t} \cdot \left(\frac{\lambda}{4\pi d}\right)^{2} \cdot G_{t} \cdot G_{r}$$
+**Pr = Pt · (λ / 4πd)² · Gt · Gr**
 
-Where $P_{r}$ is the power at the receiver, $P_{t}$ is the transmitted power, $\lambda$ represents the microwave wavelength, and $d$ is the distance.
+Where **Pr** is the power at the receiver, **Pt** is the transmitted power, **λ** represents the microwave wavelength, and **d** is the distance.
 
-Furthermore, the safe and efficient intensity of the beam is governed by the Power Density ($S$) calculation:
+Furthermore, the safe and efficient intensity of the beam is governed by the Power Density (**S**) calculation:
 
-$$S=\frac{P_{t} \cdot G_{t}}{4\pi d^{2}}$$
+**S = (Pt · Gt) / (4πd²)**
 
 ## Spoils of War: Project Display Champion
 The theoretical models and functional prototypes were put to the test in competitive arenas. The project swept the Project Display (School/College) category, earning the Champion title and validating the real-world application of the MPT framework.
 
-![Team MIG 29 receiving the Champion Award](/gallery/BTM%20Prize%20Giving.jpg)
+![Team MIG 29 receiving the Champion Award](/gallery/btm-prize.jpg)
 *Team MIG 29 receiving the Champion Award for the MPT Project Display.*

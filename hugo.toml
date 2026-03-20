@@ -62,6 +62,11 @@ images = ["/profile.jpg"]
   name = "Articles"
   url = "/articles/"
   weight = 40
+  
+[[menu.main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 45
 
 [[menu.main]]
   name = "Resume"

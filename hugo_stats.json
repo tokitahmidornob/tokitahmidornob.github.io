@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "blockquote",
       "body",
       "br",
       "button",
@@ -307,6 +308,7 @@
       "citizen-scientist--nasa",
       "close-search-button",
       "co-founder--lead-investigator--holmes-research-group",
+      "core-metrics",
       "current-directives",
       "current-focus--research",
       "executive--research-operations",
@@ -319,6 +321,7 @@
       "menu-blur",
       "microgravity-and-the-biomechanical-interface",
       "mobile-menu-toggle",
+      "objective",
       "operational-profile",
       "overview-the-energy-crisis-solution",
       "pathology-and-redundancy",

@@ -11,8 +11,8 @@ Whether you are seeking to discuss aerospace telemetry, cross-disciplinary biome
 ### Primary Frequencies
 For immediate operational inquiries, joint research proposals, or professional recruitment:
 
-* **Direct Email:** [Insert Your Professional Email Here, e.g., toki.tahmid@email.com]
-* **Professional Network:** [Connect on LinkedIn]([Insert Your LinkedIn URL Here])
+* **Direct Email:** You can directly email me from the contact form below.
+* **Professional Network:** https://www.linkedin.com/in/toki-tahmid-ornob-761668340/
 * **Code & Systems Vault:** [Review my repositories on GitHub](https://github.com/tokitahmidornob)
 
 ### Areas of Active Collaboration

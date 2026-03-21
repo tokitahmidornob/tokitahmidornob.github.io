@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental Models on Toki Tahmid | Digital Portfolio</title>
+    <link>http://localhost:1313/tags/mental-models/</link>
+    <description>Recent content in Mental Models on Toki Tahmid | Digital Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Toki Tahmid</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mental-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deconstructing the Cosmos: First-Principles Thinking in Aerospace Engineering</title>
+      <link>http://localhost:1313/articles/first-principles-engineering/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/first-principles-engineering/</guid>
+      <description>Why traditional analogies fail in deep space, and how first-principles reasoning is the only way to engineer the unknown.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

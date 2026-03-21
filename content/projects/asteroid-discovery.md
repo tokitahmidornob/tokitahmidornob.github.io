@@ -1,21 +1,27 @@
 ---
 title: "NASA Asteroid Search: Deep Space Telemetry"
-date: 2026-03-20
-summary: "Computational analysis of near-Earth objects and provisional asteroid discoveries."
-tags: ["Astrophysics", "Data Analytics", "Citizen Science"]
+date: 2026-03-21
+summary: "Computational analysis of near-Earth objects and provisional asteroid discoveries via Pan-STARRS."
+tags: ["Astrophysics", "Data Analytics", "Citizen Science", "Astrometry"]
 ---
 
-> **OPERATION STATUS: ACTIVE**
-> 
-> *Collaborating with international astronomical campaigns to analyze deep-space image sets and identify moving celestial bodies.*
+## Mission Directive
+Operating as a Citizen Scientist in collaboration with international astronomical campaigns (such as IASC), my objective is to process raw, time-lapsed image sets provided by the **Pan-STARRS observatory** in Hawaii. The primary goal is to identify moving celestial bodies, specifically potential Near-Earth Objects (NEOs) and Main Belt asteroids that automated systems may have missed.
 
-## Mission Objective
-To process raw, time-lapsed astronomical image sets provided by the Pan-STARRS observatory and identify potential Near-Earth Objects (NEOs) and Main Belt asteroids using astrometric data analysis methodologies.
+## Analytical Methodology & Astrometry
+Identifying a 10-kilometer wide rock moving at 20 kilometers per second through the darkness of space requires precise computational methodologies:
 
-## Analytical Methodology
-* **Software Environment:** Astrometrica
-* **Process:** Utilizing the "blinking" technique to compare sequential images of the same star field, isolating objects displaying independent motion against the static background.
-* **Verification:** Calculating the Signal-to-Noise Ratio (SNR) and measuring the celestial coordinates (Right Ascension and Declination) to eliminate false positives and orbital artifacts.
+* **Software Environment:** Utilizing **Astrometrica** to process heavy, raw astronomical image files.
+* **The "Blinking" Technique:** Sequentially analyzing time-lapsed star fields to isolate objects displaying independent motion against the static cosmic background.
+* **Signal-to-Noise Ratio (SNR):** Calculating the SNR to differentiate true celestial bodies from cosmic ray hits, camera artifacts, or digital noise.
+* **Vector Plotting:** Measuring the precise celestial coordinates (Right Ascension and Declination) of a moving object across multiple frames to establish its preliminary orbital trajectory.
 
-## Confirmed Discoveries & Preliminary Data
-*(Data pending un-redaction. Specific asteroid designations and provisional discovery certificates will be uploaded to this sector upon final verification.)*
+## Provisional Discoveries & Certificates
+Through rigorous data analysis, I have successfully identified preliminary celestial objects that have been submitted to the Minor Planet Center (MPC) at Harvard for orbital verification. 
+
+### Verified Tracking Codes:
+* **[Insert Provisional Code 1, e.g., TTO0001]** - *Status: Preliminary Detection*
+* **[Insert Provisional Code 2, e.g., TTO0002]** - *Status: Preliminary Detection*
+* **[Insert Provisional Code 3, e.g., TTO0003]** - *Status: Preliminary Detection*
+
+> *"The intersection of mechanical engineering and astrophysics begins with understanding orbital mechanics and celestial trajectories. Every data point plotted is a step closer to deep-space navigation."*

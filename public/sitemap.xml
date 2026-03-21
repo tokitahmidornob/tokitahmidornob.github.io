@@ -4,7 +4,27 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/holmes_bci/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/holmes_denovo/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/hult-prize/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/asteroid-discovery/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/articles/first-principles-aerospace/</loc>
@@ -23,15 +43,11 @@
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/projects/holmes-initiative/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/hult-prize/</loc>
+    <loc>http://localhost:1313/projects/sapcmty/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -39,19 +55,15 @@
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/asteroid-discovery/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/gallery/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/experience/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/contact/</loc>
   </url>
 </urlset>

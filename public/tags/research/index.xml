@@ -19,15 +19,5 @@
       
     </item>
     
-    <item>
-      <title>NASA Citizen Scientist: Asteroid Discovery</title>
-      <link>http://localhost:1313/projects/asteroid-discovery/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/asteroid-discovery/</guid>
-      <description>&lt;p&gt;In 2019, I participated in a citizen science initiative with the NASA Jet Propulsion Laboratory (JPL). Through meticulous data analysis, I successfully identified three provisional asteroids. This achievement remains a cornerstone of my commitment to aerospace exploration.&lt;/p&gt;</description>
-      
-    </item>
-    
   </channel>
 </rss>

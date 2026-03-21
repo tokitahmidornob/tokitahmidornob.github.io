@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Toki Tahmid</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>H.O.L.M.E.S. Advanced R&amp;D: Brain-Computer Interfaces (BCI)</title>
+      <link>http://localhost:1313/projects/holmes_bci/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/holmes_bci/</guid>
+      <description>Translating human neural intent into mechanical action through advanced biomedical engineering.</description>
+      
+    </item>
+    
+    <item>
+      <title>H.O.L.M.E.S. Advanced R&amp;D: De-Novo Molecular Synthesis</title>
+      <link>http://localhost:1313/projects/holmes_denovo/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/holmes_denovo/</guid>
+      <description>Pioneering the computational generation and physical manifestation of novel biomaterials.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hult Prize Initiative: Project Jute-Graft</title>
+      <link>http://localhost:1313/projects/hult-prize/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/hult-prize/</guid>
+      <description>The Bio-Composite Revolution: Engineering medical-grade cellulose scaffolds from Bangladesh&amp;rsquo;s Golden Fiber.</description>
+      
+    </item>
+    
+    <item>
+      <title>NASA Asteroid Search: Deep Space Telemetry</title>
+      <link>http://localhost:1313/projects/asteroid-discovery/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/asteroid-discovery/</guid>
+      <description>Computational analysis of near-Earth objects and provisional asteroid discoveries via Pan-STARRS.</description>
+      
+    </item>
     
     <item>
       <title>Applying First Principles to Multidisciplinary Engineering</title>
@@ -50,12 +90,12 @@
     </item>
     
     <item>
-      <title>Hult Prize Competition 2026</title>
-      <link>http://localhost:1313/projects/hult-prize/</link>
+      <title>SAPCMTY: Revenue &amp; Performance Architecture</title>
+      <link>http://localhost:1313/projects/sapcmty/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/hult-prize/</guid>
-      <description>&lt;p&gt;I am currently competing in the Hult Prize. We are leveraging my mechanical engineering background and their software expertise to build a business model that addresses critical sustainability goals.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/sapcmty/</guid>
+      <description>Designing the foundational revenue generation models and performance tracking structures.</description>
       
     </item>
     
@@ -70,16 +110,6 @@
     </item>
     
     <item>
-      <title>NASA Citizen Scientist: Asteroid Discovery</title>
-      <link>http://localhost:1313/projects/asteroid-discovery/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/asteroid-discovery/</guid>
-      <description>&lt;p&gt;In 2019, I participated in a citizen science initiative with the NASA Jet Propulsion Laboratory (JPL). Through meticulous data analysis, I successfully identified three provisional asteroids. This achievement remains a cornerstone of my commitment to aerospace exploration.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Gallery &amp; Visual Archive</title>
       <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -90,22 +120,22 @@
     </item>
     
     <item>
-      <title>Mission Control: Toki Tahmid</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>Mechanical Engineer, Aerospace Researcher, and Co-Founder of the H.O.L.M.E.S. Initiative.</description>
-      
-    </item>
-    
-    <item>
       <title>Secure Communications Relay</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;If you are reviewing my MPT schematics, the H.O.L.M.E.S. Initiative framework, or wish to discuss aerospace engineering collaborations, you may initiate a secure transmission below.&lt;/p&gt;&#xA;&lt;div class=&#34;contact-container&#34; style=&#34;margin-top: 2.5rem;&#34;&gt;&#xD;&#xA;  &lt;form action=&#34;https://formspree.io/f/maqpkqna&#34; method=&#34;POST&#34; class=&#34;glass-form&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Originating Identity&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; name=&#34;name&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;Name / Organization&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Return Channel&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;email&#34; name=&#34;email&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;email@example.com&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;      &lt;label style=&#34;color: #00d4ff; font-weight: bold;&#34;&gt;&gt; Transmission Payload&lt;/label&gt;&#xD;&#xA;      &lt;textarea name=&#34;message&#34; rows=&#34;6&#34; style=&#34;width: 100%; background: rgba(0,0,0,0.5); color: white; border: 1px solid #00d4ff; padding: 10px; margin-bottom: 15px;&#34; placeholder=&#34;Type your dispatch here...&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;button type=&#34;submit&#34; style=&#34;background: transparent; color: #00d4ff; border: 2px solid #00d4ff; padding: 10px 20px; cursor: pointer; width: 100%; font-weight: bold;&#34;&gt;INITIATE TRANSMISSION&lt;/button&gt;&#xD;&#xA;  &lt;/form&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Mastermind: Identity &amp; Operations</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>An overview of Toki Tahmid: Mechanical Engineer, Aerospace Researcher, and Systems Strategist.</description>
       
     </item>
     

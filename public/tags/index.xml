@@ -7,7 +7,127 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Toki Tahmid</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Astrometry</title>
+      <link>http://localhost:1313/tags/astrometry/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/astrometry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Astrophysics</title>
+      <link>http://localhost:1313/tags/astrophysics/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/astrophysics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biomedical Engineering</title>
+      <link>http://localhost:1313/tags/biomedical-engineering/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/biomedical-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Citizen Science</title>
+      <link>http://localhost:1313/tags/citizen-science/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/citizen-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computational Biology</title>
+      <link>http://localhost:1313/tags/computational-biology/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computational-biology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>http://localhost:1313/tags/data-analytics/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hardware Integration</title>
+      <link>http://localhost:1313/tags/hardware-integration/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hardware-integration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/tags/innovation/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/innovation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Materials Science</title>
+      <link>http://localhost:1313/tags/materials-science/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/materials-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microfluidics</title>
+      <link>http://localhost:1313/tags/microfluidics/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/microfluidics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural Engineering</title>
+      <link>http://localhost:1313/tags/neural-engineering/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/neural-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Social Entrepreneurship</title>
+      <link>http://localhost:1313/tags/social-entrepreneurship/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/social-entrepreneurship/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Aerospace</title>
@@ -20,41 +140,11 @@
     </item>
     
     <item>
-      <title>Astrophysics</title>
-      <link>http://localhost:1313/tags/astrophysics/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/astrophysics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Biomedical</title>
       <link>http://localhost:1313/tags/biomedical/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/biomedical/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Citizen Science</title>
-      <link>http://localhost:1313/tags/citizen-science/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/citizen-science/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Analytics</title>
-      <link>http://localhost:1313/tags/data-analytics/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-analytics/</guid>
       <description></description>
       
     </item>
@@ -80,36 +170,6 @@
     </item>
     
     <item>
-      <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/innovation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Social Entrepreneurship</title>
-      <link>http://localhost:1313/tags/social-entrepreneurship/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/social-entrepreneurship/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Strategic Planning</title>
-      <link>http://localhost:1313/tags/strategic-planning/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/strategic-planning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>http://localhost:1313/tags/research/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
@@ -125,6 +185,16 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/enterprise-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systems Engineering</title>
+      <link>http://localhost:1313/tags/systems-engineering/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/systems-engineering/</guid>
       <description></description>
       
     </item>
@@ -165,46 +235,6 @@
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/renewable-energy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Astronomy</title>
-      <link>http://localhost:1313/tags/astronomy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/astronomy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Competition</title>
-      <link>http://localhost:1313/tags/competition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/competition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Entrepreneurship</title>
-      <link>http://localhost:1313/tags/entrepreneurship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/entrepreneurship/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NASA</title>
-      <link>http://localhost:1313/tags/nasa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nasa/</guid>
       <description></description>
       
     </item>

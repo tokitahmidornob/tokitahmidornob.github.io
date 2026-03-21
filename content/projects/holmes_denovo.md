@@ -16,7 +16,7 @@ To accelerate the discovery of advanced biomaterials and compounds from the grou
 This operation requires a flawless transition from a virtual simulation to physical reality.
 
 * **The Computational Framework (CSE Lead):** Utilizing AI-driven generative models and deep learning to design novel molecular structures, predicting their stability, and simulating their binding affinities within a purely virtual environment.
-* **The Mechanical Synergy (Toki Tahmid):** Researching the physical structural dynamics of these generated molecules. My directive is to conceptualize and design the highly automated, thermodynamically controlled microfluidic hardware required to physically manufacture these computer-generated structures in the real world.
+* **The Mechanical Synergy (ME Lead):** Researching the physical structural dynamics of these generated molecules. My directive is to conceptualize and design the highly automated, thermodynamically controlled microfluidic hardware required to physically manufacture these computer-generated structures in the real world.
 
 ## The Ultimate Objective
 To build a closed-loop system where AI designs a necessary molecule, and advanced automated mechanical systems instantly synthesize it, revolutionizing how we produce critical materials for deep-space missions and advanced medicine.

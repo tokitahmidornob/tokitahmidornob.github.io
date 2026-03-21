@@ -15,7 +15,7 @@ To engineer a seamless handshake between biological neural networks and digital/
 ## The Cross-Disciplinary Architecture
 Translating thought into physical motion requires operating at the bleeding edge of both software and hardware. 
 
-* **Mechanical & Systems Architecture (Toki Tahmid):** Designing the physical interface parameters. This includes engineering ergonomic, non-invasive sensor housings, calculating thermal management for wearable neuro-tech, and conceptualizing the robotic or haptic mechanisms that will physically execute the neural commands.
+* **Mechanical & Systems Architecture (ME Lead):** Designing the physical interface parameters. This includes engineering ergonomic, non-invasive sensor housings, calculating thermal management for wearable neuro-tech, and conceptualizing the robotic or haptic mechanisms that will physically execute the neural commands.
 * **Computational Integration (CSE Lead):** Developing the complex signal-processing algorithms and machine learning models required to filter raw neural noise (EEG data) and translate those biological signals into clean, executable machine code.
 
 ## The Ultimate Objective
